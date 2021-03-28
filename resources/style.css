@@ -1,0 +1,28 @@
+html {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+}
+
+.download-link {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.copyright {
+  color: gray;
+  text-align: right;
+  margin-right: 25px;
+}
+
+footer {
+  position: fixed;
+  bottom: 10px;
+
+  width: 100%;
+}
