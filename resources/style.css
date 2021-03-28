@@ -2,11 +2,19 @@ html {
   background-color: black;
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  color: grey;
 }
 
 h1 {
   color: white;
   font-size: 50px;
+}
+
+h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
 }
 
 .download-link {
@@ -18,11 +26,4 @@ h1 {
   color: gray;
   text-align: right;
   margin-right: 25px;
-}
-
-footer {
-  position: fixed;
-  bottom: 10px;
-
-  width: 100%;
 }
